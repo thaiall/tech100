@@ -1,7 +1,7 @@
 # เล่าเรื่อง github.com
 ## ความแตกต่างของ index.md และ readme.md 
 1. ที่หน้า https://github.com/thaiall/tech100 \
-ไม่มี readme.md ก็จะไม่แสดงผลตาม index.md อัตโนมัติ  
+เมื่อมี readme.md ก็จะไม่แสดงผลตาม index.md อัตโนมัติ  
 2. ที่หน้า https://thaiall.github.io/tech100/  \
 เคยสร้าง Github Pages ไว้  \
 ด้วยการเข้าผ่าน Settings และเลือก theme: jekyll-theme-modernist \
